@@ -1,0 +1,9 @@
+x=str(3) 
+#xwillbe'3' 
+y=int(3) 
+#ywillbe3 
+z=float(3) 
+#zwillbe3.0
+print(type(x)) 
+print(type(y)) 
+print(type(z))
