@@ -4,3 +4,9 @@ print(new_age)
 
 output=
 19+2=21
+
+
+CONVERTING INT TO FLOAT
+
+number=18
+print(float(18))
