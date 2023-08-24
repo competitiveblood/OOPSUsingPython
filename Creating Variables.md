@@ -12,6 +12,8 @@ x = 100
 y  = "Section F"
 print(x)
 print(y)
+```
+```
 output
 100
 Section F
