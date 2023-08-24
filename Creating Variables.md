@@ -5,9 +5,10 @@
 
 
 
-A variable is created the moment you first assign a value to it. x = 100
+A variable is created the moment you first assign a value to it.
 
 ```
+x = 100
 y  = "Section F"
 print(x)
 print(y)
